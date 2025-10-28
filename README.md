@@ -4,14 +4,6 @@ Este repositório implementa e analisa o desempenho de 6 algoritmos de ordenaç�
 
 O código-fonte da implementação e da análise está no arquivo `AnalisadorDeAlgoritmos.java`.
 
-##  Restrições do Projeto
-
-Este código foi desenvolvido sob um conjunto estrito de regras acadêmicas:
-1.  **PROIBIDO** o uso da propriedade `.length` em vetores. O tamanho (`N=20`) é uma constante.
-2.  **PROIBIDO** o uso de quaisquer funções ou classes de `java.util` (como `ArrayList`, `Arrays`, `List`, `Map`, `Collections`, etc.).
-3.  **PROIBIDO** o uso de `StringBuilder`. A manipulação de strings é feita por concatenação.
-4.  **PERMITIDO** apenas o uso de tipos primitivos (`int`, `float`, `boolean`), `String`, `try-catch` e arrays primitivos (`int[]`, `int[][]`).
-
 ## Métricas de Análise
 
 A comparação foi realizada com base em duas métricas principais:
